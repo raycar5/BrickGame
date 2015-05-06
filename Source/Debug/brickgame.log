@@ -1,0 +1,18 @@
+﻿Build started 20/06/2014 22:57:32.
+     1>Project "D:\Datos Usuario\Mis Documentos\GitHub\BrickGame\Source\brickgame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\programas\microsoft\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt brickgame\BrickGame.cpp brickgame\BrickGameCharacter.cpp brickgame\BrickGameGameMode.cpp brickgame\BrickGameHUD.cpp
+         BrickGameHUD.cpp
+     1>d:\datos usuario\mis documentos\github\brickgame\source\brickgame\BrickGame.h(6): fatal error C1083: Cannot open include file: 'Engine.h': No such file or directory
+         BrickGameGameMode.cpp
+     1>d:\datos usuario\mis documentos\github\brickgame\source\brickgame\BrickGame.h(6): fatal error C1083: Cannot open include file: 'Engine.h': No such file or directory
+         BrickGameCharacter.cpp
+     1>d:\datos usuario\mis documentos\github\brickgame\source\brickgame\BrickGame.h(6): fatal error C1083: Cannot open include file: 'Engine.h': No such file or directory
+         BrickGame.cpp
+     1>d:\datos usuario\mis documentos\github\brickgame\source\brickgame\BrickGame.h(6): fatal error C1083: Cannot open include file: 'Engine.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\Datos Usuario\Mis Documentos\GitHub\BrickGame\Source\brickgame.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.16
